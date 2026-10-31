@@ -1,0 +1,22 @@
+.liner-experience{--liner-accent:var(--accent,#a7f7ce);position:relative;width:100%;height:100%;color:#dceaf0;display:flex;flex-direction:column;isolation:isolate;text-align:left}
+.liner-view-switch{display:flex;justify-content:center;gap:6px;position:relative;z-index:30;margin:12px 0 0}
+.liner-view-switch button{border:1px solid #8baaa44d;background:#0c222acc;color:#aec3ca;padding:8px 14px;font-size:13px;border-radius:24px;cursor:pointer}
+.liner-view-switch button[aria-pressed=true]{color:#0a2025;background:var(--liner-accent);border-color:transparent}
+.liner-visual{position:relative;flex:1;min-height:0;margin:5px 0}
+.liner-collection,.liner-engine-view{position:absolute;inset:0;overflow:hidden}
+.liner-experience [hidden]{display:none!important}
+.liner-object{position:absolute;left:50%;top:17%;width:36%;height:90%;will-change:transform;transform-origin:center 70%;pointer-events:none}
+.liner-object svg{width:100%;height:100%;filter:drop-shadow(0 18px 15px #0003)}
+.liner-orbit{position:absolute;left:10%;right:10%;top:55%;height:35%;border:1px solid var(--liner-accent);border-radius:50%;opacity:.25;box-shadow:0 0 0 16px #9ac3ba0a,0 0 0 32px #9ac3ba07}
+.liner-floor-label{position:absolute;bottom:3%;width:100%;text-align:center;font:10px Arial,sans-serif;letter-spacing:.3em;opacity:.45}
+.liner-engine{width:100%;height:100%;display:block}.liner-engine-caption{position:absolute;bottom:0;width:100%;text-align:center;font-size:12px;color:var(--liner-accent)}
+.liner-stage-bottom{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 20px 0;position:relative;z-index:30}
+.liner-kicker{font:10px Arial,sans-serif;letter-spacing:.16em;opacity:.55}.liner-scene-title{font-size:17px!important;line-height:1.5!important;margin:5px 0!important;color:inherit!important;max-width:none!important}.liner-stage-bottom small{font-size:11px;opacity:.5}
+.liner-stage-actions{display:flex;gap:6px;flex-shrink:0}.liner-stage-actions button{border:1px solid #809b9c60;background:transparent;color:inherit;border-radius:50%;width:32px;height:32px;font-size:17px;padding:0;cursor:pointer}
+.liner-catalogue-link{align-self:flex-start;margin:8px 20px 15px;font-size:12px;color:var(--liner-accent);position:relative;z-index:30;border-bottom:1px solid #7faaaa55;padding-bottom:3px}
+.a-product.has-liner-stage{animation:none;filter:none;height:550px;top:-110px;right:-4%;width:54%}.a-product-note{display:none}
+.b-liner-host{position:absolute;inset:0;z-index:2}.theme-b .liner-experience{--liner-accent:#28594f;color:#264b4d}.theme-b .liner-view-switch button{background:#f8fcf6;color:#42645a}.theme-b .liner-view-switch button[aria-pressed=true]{background:#28594f;color:#fff}.theme-b .liner-stage-bottom{padding-left:24px;padding-right:24px}.theme-b .b-stage-caption,.theme-b .b-stage-orbit{display:none}.theme-b .b-stage:before{opacity:.25}
+.c-stage .model-view.has-liner-stage{width:100%;height:100%;max-width:100%;top:0;filter:none}.c-stage.liner-mode .c-hotspot,.c-stage.liner-mode .axis,.c-stage.liner-mode .model-caption{display:none}
+.c-stage.liner-mode:before{opacity:.4}.c-stage.liner-mode .liner-stage-bottom{padding-left:28px;padding-right:28px}
+@media(max-width:1000px) and (min-width:761px){.a-product.has-liner-stage{right:-10%;width:58%}.liner-stage-bottom{padding-left:10px;padding-right:10px}.liner-scene-title{font-size:15px!important}.liner-stage-actions{gap:3px}}
+@media(max-width:760px){.a-product.has-liner-stage{position:relative;top:0;right:auto;width:100%;height:390px;margin:22px auto 30px}.a-hero{min-height:1080px!important}.b-stage{min-height:425px;margin-left:0}.c-stage.liner-mode{height:430px}.liner-stage-bottom,.c-stage.liner-mode .liner-stage-bottom{padding:5px 10px 0}.liner-scene-title{font-size:14px!important}.liner-stage-bottom small{font-size:10px}.liner-view-switch{margin-top:12px}.liner-view-switch button{font-size:12px;padding:8px 13px}.liner-catalogue-link{margin:8px 10px 12px}.liner-stage-actions button{width:30px;height:30px}.liner-object{width:37%;top:15%}.liner-engine-view svg{overflow:visible}.liner-engine-caption{font-size:11px}}
