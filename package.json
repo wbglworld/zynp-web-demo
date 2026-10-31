@@ -2,7 +2,7 @@
   "name": "zynp-web-demo",
   "version": "1.0.0",
   "private": true,
-  "description": "中原内配网站改版：三套静态设计方案与完整内容页",
+  "description": "中原内配网站改版：四套静态设计方案与完整内容页",
   "engines": { "node": ">=22.12.0" },
   "scripts": {
     "dev": "node design-proposals/serve.cjs",

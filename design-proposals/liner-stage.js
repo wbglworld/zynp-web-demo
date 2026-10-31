@@ -1,7 +1,7 @@
 /* Original vector concept models: product forms and engine motion are illustrative. */
 (()=>{
  let serial=0;
- const theme=document.body.className.match(/theme-([abc])/)?.[1]||'a';
+ const theme=document.body.className.match(/theme-([abcd])/)?.[1]||'a';
  function liner(id,type){
   const w=[80,95,72][type],h=[230,185,255][type],x=120-w;
   return `<svg viewBox="0 0 240 340" fill="none" aria-hidden="true"><defs><linearGradient id="steel-${id}"><stop stop-color="#25343c"/><stop offset=".22" stop-color="#d9e6ed"/><stop offset=".4" stop-color="#849da9"/><stop offset=".64" stop-color="#304650"/><stop offset=".86" stop-color="#b8ced7"/><stop offset="1" stop-color="#526d7a"/></linearGradient><linearGradient id="bore-${id}" x2="0" y2="1"><stop stop-color="#020b10"/><stop offset="1" stop-color="#49636c"/></linearGradient></defs><ellipse cx="120" cy="310" rx="98" ry="15" fill="#000" opacity=".17"/><path d="M${x} 55 V${55+h} A${w} 28 0 0 0 ${120+w} ${55+h} V55Z" fill="url(#steel-${id})" stroke="#9eb3bc"/>${type!==2?`<path d="M${x-6} 55 V76 A${w+6} 30 0 0 0 ${126+w} 76 V55" fill="url(#steel-${id})" stroke="#a9c0ca"/>`:''}<ellipse cx="120" cy="55" rx="${w+(type!==2?6:0)}" ry="32" fill="#aec3cd"/><ellipse cx="120" cy="55" rx="${w-12}" ry="23" fill="url(#bore-${id})"/><ellipse cx="120" cy="55" rx="${w-5}" ry="28" stroke="#edf6fa" stroke-opacity=".7"/><path d="M${x+16} 90V${40+h}" stroke="#effaff" stroke-opacity=".42" stroke-width="2"/>${[0,1,2].map(i=>`<path d="M${x} ${h+30+i*7} Q120 ${h+82+i*7} ${120+w} ${h+30+i*7}" stroke="#d7e9ee" stroke-opacity=".5"/>`).join('')}${type===1?`<path d="M${x} 115Q120 160 ${120+w} 115M${x} 123Q120 168 ${120+w} 123" stroke="#233840" stroke-width="4"/>`:''}</svg>`;

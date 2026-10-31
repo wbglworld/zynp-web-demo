@@ -16,4 +16,4 @@ for (const item of fs.readdirSync(source, {withFileTypes:true})) {
     fs.copyFileSync(path.join(source,item.name), path.join(dest,item.name));
   }
 }
-console.log('Static site built in dist/ (index.html, a.html, b.html, c.html and all content).');
+console.log('Static site built in dist/ (index.html, a.html, b.html, c.html, d.html and all content).');

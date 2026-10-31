@@ -1,7 +1,7 @@
 (()=>{
  const query=new URLSearchParams(location.search);let theme=query.get('theme');
  try{theme=theme||localStorage.getItem('zynp-theme')||'a';localStorage.setItem('zynp-theme',theme)}catch{theme=theme||'a'}
- if(!['a','b','c'].includes(theme))theme='a';document.documentElement.dataset.theme=theme;
+ if(!['a','b','c','d'].includes(theme))theme='a';document.documentElement.dataset.theme=theme;
  document.querySelectorAll('a[href]').forEach(a=>{if(a.hasAttribute('data-home'))a.setAttribute('href','../'+theme+'.html');const href=a.getAttribute('href');if(href&&/\.html(?:$|\?)/.test(href)&&!/^https?:/.test(href)){const parts=href.split('?');a.setAttribute('href',parts[0]+'?theme='+theme)}});
  const menu=document.querySelector('.content-menu');menu?.addEventListener('click',()=>{const open=document.querySelector('.content-header').classList.toggle('menu-open');menu.setAttribute('aria-expanded',String(open));menu.textContent=open?'×':'☰'});
  const input=document.querySelector('#content-search'),cards=[...document.querySelectorAll('.content-list .content-card')],more=document.querySelector('#load-more');let limit=18,category='';

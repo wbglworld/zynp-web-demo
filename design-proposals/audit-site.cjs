@@ -1,5 +1,5 @@
 const fs=require('fs'),path=require('path'),ch=require('cheerio');const root=__dirname;
-const files=['a.html','b.html','c.html',...fs.readdirSync(path.join(root,'content')).filter(x=>x.endsWith('.html')).map(x=>'content/'+x)],errors=[],oldLinks=[],remoteAssets=[];
+const files=['index.html','a.html','b.html','c.html','d.html',...fs.readdirSync(path.join(root,'content')).filter(x=>x.endsWith('.html')).map(x=>'content/'+x)],errors=[],oldLinks=[],remoteAssets=[];
 for(const file of files){const $=ch.load(fs.readFileSync(path.join(root,file),'utf8'));
  $('[href],[src]').each((i,e)=>{for(const key of ['href','src']){const value=$(e).attr(key);if(!value)continue;
   if(/^https?:/.test(value)){if(/hnzynp\.com/.test(value))oldLinks.push({file,value});if(key==='src')remoteAssets.push({file,value});continue}

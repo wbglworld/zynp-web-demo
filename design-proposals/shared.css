@@ -4,3 +4,4 @@
 .site-header{position:sticky;top:0;z-index:60}
 body.theme-a .site-header{position:fixed;background:#081b2c}
 body.theme-c .site-header{background:#090f12}
+@media(max-width:400px){.review-dock{left:8px;gap:2px}.review-dock a{padding:6px 7px}.review-dock .review-home{margin-right:0}.motion-control{right:8px}}
