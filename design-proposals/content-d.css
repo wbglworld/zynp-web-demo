@@ -10,4 +10,9 @@ html[data-theme=d]{--paper:#eff7ff;--surface:#fff;--ink:#174770;--muted:#537b9b;
 [data-theme=d] .member-grid{gap:14px;border:0}[data-theme=d] .member-tile{border:1px solid #dbe8f1;background:white;border-radius:10px}[data-theme=d] .member-tile:hover{background:#d3ebff}[data-theme=d] .partner-tile{border-radius:9px;border-color:#e0eaf2}[data-theme=d] .partner-tile figcaption{color:#7290a5}[data-theme=d] .partner-atlases a{border-radius:12px;border-color:#b9d6ef}
 [data-theme=d] .research-topic{border-color:#cfdfec}[data-theme=d] .research-topic-content{background:#fff;border:1px solid #e1ebf3;border-radius:12px;padding:28px}[data-theme=d] .research-topic-heading h2{color:#156eae}[data-theme=d] .research-index{color:#779ab4}
 [data-theme=d] .content-footer{background:#dceeff;border-color:#d5e5f0}[data-theme=d] .load-more{background:#ef7436;color:white;border-radius:6px}[data-theme=d] .motion-control{background:#fffef4ed;color:#567c96;border-color:#c4dbea}
+[data-theme=d] .content-hero{background:linear-gradient(120deg,#006de8,#098dff 60%,#38baff);color:white}
+[data-theme=d] .content-hero h1,[data-theme=d] .content-hero .eyebrow,[data-theme=d] .content-hero p,[data-theme=d] .breadcrumb{color:white;opacity:1}
+[data-theme=d] .content-hero:after{color:#c8f1ff;opacity:.2}
+[data-theme=d] .filter-tabs button[aria-pressed=true]{background:#007ce6;border-color:#007ce6}
+[data-theme=d] .product-image{background:radial-gradient(ellipse,#f5fcff,#b5e1ff)}
 @media(max-width:700px){[data-theme=d] .content-hero{padding:45px 6% 35px}[data-theme=d] .article-body{padding:22px 18px}[data-theme=d] .content-card{padding:25px}[data-theme=d] .research-topic-content{padding:22px}}
