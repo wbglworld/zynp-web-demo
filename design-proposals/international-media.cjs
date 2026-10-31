@@ -1,0 +1,11 @@
+const photos=[
+ ['liner-surfaces','表面纹理','光滑、纹理与螺纹外观的气缸套实拍'],
+ ['liner-single','单件细节','气缸套筒身、端面与内孔实拍'],
+ ['liner-profiles','结构与轮廓','不同轮廓的气缸套实拍'],
+ ['liner-sizes','多种外形','不同尺寸与外形的气缸套实拍']
+];
+function collection({prefix='',home=false,theme='d'}={}){
+ return `<section class="intl-collection ${home?'d-container intl-home':''}" id="international-gallery" aria-labelledby="intl-gallery-title"><div class="intl-heading"><div><span class="eyebrow">CYLINDER LINERS / IN DETAIL</span><h2 id="intl-gallery-title">精密之处，经得起细看。</h2><p>从表面纹理到产品轮廓，近距离观察气缸套的真实细节。</p></div><a href="${home?'content/products.html?theme='+theme+'#catalogue':'#catalogue'}">浏览 23 件单品 <span aria-hidden="true">↗</span></a></div><div class="intl-photo-grid">${photos.map(([file,title,alt],i)=>`<a class="intl-shot" href="${prefix}assets/international/${file}.webp" data-intl-photo data-caption="${title}" aria-label="放大查看${title}"><div class="intl-photo"><img src="${prefix}assets/international/${file}.webp" width="520" height="390" alt="${alt}" loading="lazy"><span class="intl-zoom" aria-hidden="true">↗</span></div><div class="intl-caption"><span>0${i+1}</span><h3>${title}</h3><small>查看细节</small></div></a>`).join('')}</div><p class="intl-credit">ZYNP 国际站产品实拍 · 图片展示产品外观，具体型号与参数请咨询工程团队。</p></section><dialog class="intl-lightbox" aria-labelledby="intl-lightbox-title"><button class="intl-close" aria-label="关闭实拍图">×</button><img class="intl-large-image" alt=""><div class="intl-lightbox-bottom"><button class="intl-previous" aria-label="上一张实拍图">←</button><h2 id="intl-lightbox-title"></h2><button class="intl-next" aria-label="下一张实拍图">→</button></div></dialog>`;
+}
+function research({prefix='',directory=false}={}){return `<div class="intl-research-images${directory?' intl-research-directory':''}"><figure><img src="${prefix}assets/international/engineering-support.webp" width="644" height="453" alt="ZYNP 国际站展示的气缸套工程分析工作台" loading="lazy"><figcaption>从设计到工程验证<small>ZYNP 国际站 · 工程支持场景</small></figcaption></figure><figure><img src="${prefix}assets/international/quality-testing.webp" width="1000" height="1119" alt="ZYNP 国际站展示的气缸套与检测分析资料" loading="lazy"><figcaption>让每一处细节有据可循<small>ZYNP 国际站 · 产品检测场景</small></figcaption></figure></div>`;}
+module.exports={collection,research};
