@@ -1,0 +1,5 @@
+const fs=require('fs'),path=require('path');const dir=__dirname;
+const file=path.join(dir,'migrate.cjs');let build=fs.readFileSync(file,'utf8');
+if(!build.includes('const productPage='))build=build.split('\n').map(line=>line.startsWith("landing('products',")?`const productPage=shell('气缸套产品展示',heading('精密产品，逐件探索。','CYLINDER LINERS / PRODUCT COLLECTION','从产品外观到应用需求，在这里找到进一步交流的起点。')+require('./product-gallery.cjs')()+'<section class="related"><div class="section-label">研发与制造支持</div>'+cards(records.filter(x=>x.lang==='zh'&&['/jssl/zynp','/jssl/ahgs','/jssl/hnjke','/jssl/jggs'].includes(x.path)))+'</section>').replace('</head>','<link rel="stylesheet" href="../product-gallery.css"></head>').replace('</body>','<script src="../product-gallery.js"></script></body>');
+fs.writeFileSync(path.join(dest,'products.html'),productPage);`:line).join('\n');fs.writeFileSync(file,build);
+const motion=path.join(dir,'motion.js');let text=fs.readFileSync(motion,'utf8');if(!text.includes("const targets='.product-card,"))text=text.replace("const targets='","const targets='.product-card,");fs.writeFileSync(motion,text);

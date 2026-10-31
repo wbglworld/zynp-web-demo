@@ -1,0 +1,1162 @@
+{
+  "sourceUrl": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/images/cpjs1.jpg",
+  "sourceFile": "assets/products/source.jpg",
+  "sourceSize": {
+    "width": 261,
+    "height": 178
+  },
+  "note": "按图中可辨认单体分别建卡；展示编号不是型号，同组或不同角度是否属于同一型号尚未核实。图片只截取可见部分，无AI补绘。",
+  "products": [
+    {
+      "id": "01",
+      "title": "气缸套 · 01",
+      "position": "左上",
+      "points": [
+        [
+          45,
+          11
+        ],
+        [
+          49,
+          10
+        ],
+        [
+          57,
+          12
+        ],
+        [
+          58,
+          27
+        ],
+        [
+          53,
+          28
+        ],
+        [
+          46,
+          27
+        ]
+      ],
+      "box": {
+        "left": 44,
+        "top": 9,
+        "width": 16,
+        "height": 21
+      },
+      "image": "assets/products/01.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "02",
+      "title": "气缸套 · 02",
+      "position": "左上",
+      "points": [
+        [
+          58,
+          10
+        ],
+        [
+          65,
+          9
+        ],
+        [
+          71,
+          11
+        ],
+        [
+          69,
+          15
+        ],
+        [
+          68,
+          30
+        ],
+        [
+          64,
+          28
+        ],
+        [
+          58,
+          27
+        ]
+      ],
+      "box": {
+        "left": 57,
+        "top": 8,
+        "width": 16,
+        "height": 24
+      },
+      "image": "assets/products/02.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "03",
+      "title": "气缸套 · 03",
+      "position": "左上",
+      "points": [
+        [
+          70,
+          15
+        ],
+        [
+          77,
+          12
+        ],
+        [
+          84,
+          14
+        ],
+        [
+          87,
+          17
+        ],
+        [
+          86,
+          45
+        ],
+        [
+          82,
+          49
+        ],
+        [
+          74,
+          49
+        ],
+        [
+          70,
+          46
+        ]
+      ],
+      "box": {
+        "left": 69,
+        "top": 11,
+        "width": 20,
+        "height": 40
+      },
+      "image": "assets/products/03.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "04",
+      "title": "气缸套 · 04",
+      "position": "左上",
+      "points": [
+        [
+          36,
+          29
+        ],
+        [
+          41,
+          27
+        ],
+        [
+          58,
+          30
+        ],
+        [
+          64,
+          29
+        ],
+        [
+          68,
+          33
+        ],
+        [
+          69,
+          39
+        ],
+        [
+          66,
+          45
+        ],
+        [
+          62,
+          48
+        ],
+        [
+          39,
+          43
+        ],
+        [
+          35,
+          39
+        ],
+        [
+          34,
+          34
+        ]
+      ],
+      "box": {
+        "left": 33,
+        "top": 26,
+        "width": 38,
+        "height": 24
+      },
+      "image": "assets/products/04.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "05",
+      "title": "气缸套 · 05",
+      "position": "右上",
+      "points": [
+        [
+          172,
+          13
+        ],
+        [
+          176,
+          11
+        ],
+        [
+          185,
+          11
+        ],
+        [
+          187,
+          13
+        ],
+        [
+          187,
+          34
+        ],
+        [
+          179,
+          35
+        ],
+        [
+          178,
+          41
+        ],
+        [
+          174,
+          39
+        ]
+      ],
+      "box": {
+        "left": 171,
+        "top": 10,
+        "width": 18,
+        "height": 33
+      },
+      "image": "assets/products/05.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "06",
+      "title": "气缸套 · 06",
+      "position": "右上",
+      "points": [
+        [
+          188,
+          10
+        ],
+        [
+          193,
+          8
+        ],
+        [
+          200,
+          9
+        ],
+        [
+          203,
+          11
+        ],
+        [
+          201,
+          14
+        ],
+        [
+          201,
+          34
+        ],
+        [
+          188,
+          34
+        ]
+      ],
+      "box": {
+        "left": 187,
+        "top": 7,
+        "width": 18,
+        "height": 29
+      },
+      "image": "assets/products/06.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "07",
+      "title": "气缸套 · 07",
+      "position": "右上",
+      "points": [
+        [
+          202,
+          16
+        ],
+        [
+          207,
+          14
+        ],
+        [
+          214,
+          15
+        ],
+        [
+          218,
+          17
+        ],
+        [
+          217,
+          41
+        ],
+        [
+          214,
+          44
+        ],
+        [
+          204,
+          44
+        ],
+        [
+          203,
+          41
+        ]
+      ],
+      "box": {
+        "left": 201,
+        "top": 13,
+        "width": 19,
+        "height": 33
+      },
+      "image": "assets/products/07.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "08",
+      "title": "气缸套 · 08",
+      "position": "右上",
+      "points": [
+        [
+          179,
+          34
+        ],
+        [
+          200,
+          34
+        ],
+        [
+          204,
+          36
+        ],
+        [
+          204,
+          43
+        ],
+        [
+          201,
+          46
+        ],
+        [
+          180,
+          46
+        ],
+        [
+          177,
+          43
+        ],
+        [
+          177,
+          37
+        ]
+      ],
+      "box": {
+        "left": 176,
+        "top": 33,
+        "width": 30,
+        "height": 15
+      },
+      "image": "assets/products/08.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "09",
+      "title": "气缸套 · 09",
+      "position": "左中",
+      "points": [
+        [
+          35,
+          73
+        ],
+        [
+          39,
+          70
+        ],
+        [
+          48,
+          70
+        ],
+        [
+          53,
+          72
+        ],
+        [
+          53,
+          87
+        ],
+        [
+          35,
+          85
+        ]
+      ],
+      "box": {
+        "left": 34,
+        "top": 69,
+        "width": 21,
+        "height": 20
+      },
+      "image": "assets/products/09.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "10",
+      "title": "气缸套 · 10",
+      "position": "左中",
+      "points": [
+        [
+          54,
+          72
+        ],
+        [
+          57,
+          69
+        ],
+        [
+          64,
+          69
+        ],
+        [
+          69,
+          72
+        ],
+        [
+          68,
+          88
+        ],
+        [
+          62,
+          88
+        ],
+        [
+          54,
+          85
+        ]
+      ],
+      "box": {
+        "left": 53,
+        "top": 68,
+        "width": 18,
+        "height": 22
+      },
+      "image": "assets/products/10.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "11",
+      "title": "气缸套 · 11",
+      "position": "左中",
+      "points": [
+        [
+          69,
+          76
+        ],
+        [
+          74,
+          73
+        ],
+        [
+          81,
+          73
+        ],
+        [
+          85,
+          76
+        ],
+        [
+          86,
+          86
+        ],
+        [
+          79,
+          88
+        ],
+        [
+          78,
+          103
+        ],
+        [
+          70,
+          101
+        ]
+      ],
+      "box": {
+        "left": 68,
+        "top": 72,
+        "width": 20,
+        "height": 33
+      },
+      "image": "assets/products/11.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "12",
+      "title": "气缸套 · 12",
+      "position": "左中",
+      "points": [
+        [
+          80,
+          90
+        ],
+        [
+          85,
+          87
+        ],
+        [
+          91,
+          89
+        ],
+        [
+          94,
+          91
+        ],
+        [
+          94,
+          106
+        ],
+        [
+          90,
+          109
+        ],
+        [
+          81,
+          108
+        ],
+        [
+          79,
+          105
+        ]
+      ],
+      "box": {
+        "left": 78,
+        "top": 86,
+        "width": 18,
+        "height": 25
+      },
+      "image": "assets/products/12.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "13",
+      "title": "气缸套 · 13",
+      "position": "左中",
+      "points": [
+        [
+          35,
+          85
+        ],
+        [
+          55,
+          89
+        ],
+        [
+          64,
+          89
+        ],
+        [
+          68,
+          92
+        ],
+        [
+          70,
+          99
+        ],
+        [
+          67,
+          106
+        ],
+        [
+          62,
+          110
+        ],
+        [
+          35,
+          101
+        ],
+        [
+          33,
+          98
+        ],
+        [
+          33,
+          91
+        ]
+      ],
+      "box": {
+        "left": 32,
+        "top": 84,
+        "width": 40,
+        "height": 28
+      },
+      "image": "assets/products/13.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "14",
+      "title": "气缸套 · 14",
+      "position": "右中",
+      "points": [
+        [
+          174,
+          69
+        ],
+        [
+          178,
+          66
+        ],
+        [
+          188,
+          65
+        ],
+        [
+          193,
+          67
+        ],
+        [
+          195,
+          70
+        ],
+        [
+          194,
+          86
+        ],
+        [
+          187,
+          89
+        ],
+        [
+          185,
+          101
+        ],
+        [
+          180,
+          102
+        ],
+        [
+          175,
+          100
+        ]
+      ],
+      "box": {
+        "left": 173,
+        "top": 64,
+        "width": 24,
+        "height": 40
+      },
+      "image": "assets/products/14.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "15",
+      "title": "气缸套 · 15",
+      "position": "右中",
+      "points": [
+        [
+          187,
+          88
+        ],
+        [
+          213,
+          82
+        ],
+        [
+          218,
+          84
+        ],
+        [
+          222,
+          91
+        ],
+        [
+          223,
+          98
+        ],
+        [
+          219,
+          102
+        ],
+        [
+          192,
+          108
+        ],
+        [
+          188,
+          104
+        ],
+        [
+          185,
+          97
+        ]
+      ],
+      "box": {
+        "left": 184,
+        "top": 81,
+        "width": 41,
+        "height": 29
+      },
+      "image": "assets/products/15.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "16",
+      "title": "气缸套 · 16",
+      "position": "左下",
+      "points": [
+        [
+          36,
+          131
+        ],
+        [
+          39,
+          128
+        ],
+        [
+          49,
+          127
+        ],
+        [
+          54,
+          129
+        ],
+        [
+          56,
+          133
+        ],
+        [
+          55,
+          162
+        ],
+        [
+          51,
+          166
+        ],
+        [
+          40,
+          166
+        ],
+        [
+          36,
+          163
+        ]
+      ],
+      "box": {
+        "left": 35,
+        "top": 126,
+        "width": 23,
+        "height": 42
+      },
+      "image": "assets/products/16.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "17",
+      "title": "气缸套 · 17",
+      "position": "左下",
+      "points": [
+        [
+          49,
+          125
+        ],
+        [
+          54,
+          123
+        ],
+        [
+          64,
+          124
+        ],
+        [
+          68,
+          126
+        ],
+        [
+          67,
+          143
+        ],
+        [
+          59,
+          145
+        ],
+        [
+          56,
+          150
+        ],
+        [
+          56,
+          132
+        ],
+        [
+          53,
+          128
+        ],
+        [
+          49,
+          128
+        ]
+      ],
+      "box": {
+        "left": 48,
+        "top": 122,
+        "width": 22,
+        "height": 30
+      },
+      "image": "assets/products/17.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "18",
+      "title": "气缸套 · 18",
+      "position": "左下",
+      "points": [
+        [
+          68,
+          127
+        ],
+        [
+          74,
+          125
+        ],
+        [
+          81,
+          126
+        ],
+        [
+          84,
+          128
+        ],
+        [
+          84,
+          144
+        ],
+        [
+          78,
+          146
+        ],
+        [
+          69,
+          145
+        ]
+      ],
+      "box": {
+        "left": 67,
+        "top": 124,
+        "width": 19,
+        "height": 24
+      },
+      "image": "assets/products/18.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "19",
+      "title": "气缸套 · 19",
+      "position": "左下",
+      "points": [
+        [
+          60,
+          146
+        ],
+        [
+          65,
+          144
+        ],
+        [
+          71,
+          146
+        ],
+        [
+          88,
+          143
+        ],
+        [
+          93,
+          145
+        ],
+        [
+          96,
+          151
+        ],
+        [
+          94,
+          157
+        ],
+        [
+          65,
+          165
+        ],
+        [
+          60,
+          163
+        ],
+        [
+          57,
+          158
+        ],
+        [
+          57,
+          151
+        ]
+      ],
+      "box": {
+        "left": 56,
+        "top": 142,
+        "width": 42,
+        "height": 25
+      },
+      "image": "assets/products/19.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "20",
+      "title": "气缸套 · 20",
+      "position": "右下",
+      "points": [
+        [
+          182,
+          132
+        ],
+        [
+          187,
+          130
+        ],
+        [
+          193,
+          131
+        ],
+        [
+          195,
+          134
+        ],
+        [
+          194,
+          151
+        ],
+        [
+          191,
+          153
+        ],
+        [
+          188,
+          147
+        ],
+        [
+          181,
+          143
+        ]
+      ],
+      "box": {
+        "left": 180,
+        "top": 129,
+        "width": 17,
+        "height": 26
+      },
+      "image": "assets/products/20.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "21",
+      "title": "气缸套 · 21",
+      "position": "右下",
+      "points": [
+        [
+          197,
+          131
+        ],
+        [
+          201,
+          129
+        ],
+        [
+          206,
+          130
+        ],
+        [
+          208,
+          132
+        ],
+        [
+          207,
+          149
+        ],
+        [
+          203,
+          151
+        ],
+        [
+          198,
+          150
+        ]
+      ],
+      "box": {
+        "left": 196,
+        "top": 128,
+        "width": 14,
+        "height": 25
+      },
+      "image": "assets/products/21.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "22",
+      "title": "气缸套 · 22",
+      "position": "右下",
+      "points": [
+        [
+          210,
+          142
+        ],
+        [
+          214,
+          139
+        ],
+        [
+          219,
+          139
+        ],
+        [
+          223,
+          142
+        ],
+        [
+          222,
+          154
+        ],
+        [
+          219,
+          157
+        ],
+        [
+          212,
+          156
+        ],
+        [
+          209,
+          153
+        ]
+      ],
+      "box": {
+        "left": 208,
+        "top": 138,
+        "width": 17,
+        "height": 21
+      },
+      "image": "assets/products/22.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    },
+    {
+      "id": "23",
+      "title": "气缸套 · 23",
+      "position": "右下",
+      "points": [
+        [
+          168,
+          142
+        ],
+        [
+          172,
+          141
+        ],
+        [
+          188,
+          148
+        ],
+        [
+          191,
+          151
+        ],
+        [
+          190,
+          157
+        ],
+        [
+          186,
+          161
+        ],
+        [
+          182,
+          161
+        ],
+        [
+          166,
+          152
+        ],
+        [
+          165,
+          148
+        ]
+      ],
+      "box": {
+        "left": 164,
+        "top": 140,
+        "width": 29,
+        "height": 23
+      },
+      "image": "assets/products/23.png",
+      "model": null,
+      "material": null,
+      "dimensions": null
+    }
+  ]
+}

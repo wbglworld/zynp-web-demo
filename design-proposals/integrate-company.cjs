@@ -1,0 +1,3 @@
+const fs=require('fs'),path=require('path');const dir=__dirname;
+let b=fs.readFileSync(path.join(dir,'build.cjs'),'utf8');if(!b.includes('href="company-home.css"'))b=b.replace('<link rel="stylesheet" href="research.css">','<link rel="stylesheet" href="research.css"><link rel="stylesheet" href="company-home.css">');fs.writeFileSync(path.join(dir,'build.cjs'),b);
+let m=fs.readFileSync(path.join(dir,'motion.js'),'utf8');if(!m.includes("const targets='.company-heading,"))m=m.replace("const targets='","const targets='.company-heading,.company-image,.company-copy,");fs.writeFileSync(path.join(dir,'motion.js'),m);

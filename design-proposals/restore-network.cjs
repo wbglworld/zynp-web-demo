@@ -1,0 +1,15 @@
+const fs=require('fs'),path=require('path');const root=__dirname;
+let m=fs.readFileSync(path.join(root,'migrate.cjs'),'utf8');
+m=m.replace("['about','走进中原'],['news','新闻资讯']","['about','走进中原'],['members','集团成员'],['partners','战略合作伙伴'],['news','新闻资讯']");
+m=m.replace('<a href="members.html">集团成员</a><a href="careers.html">','<a href="members.html">集团成员</a><a href="partners.html">战略合作伙伴</a><a href="careers.html">');
+m=m.replace('<link rel="stylesheet" href="../motion.css">','<link rel="stylesheet" href="../motion.css"><link rel="stylesheet" href="../network.css">');
+if(!m.includes("shell('战略合作伙伴'"))m=m.replace("landing('members','协同制造，连接全球。','OUR GROUP','了解集团各业务公司的产品、能力与布局。',by('集团成员'));",`fs.writeFileSync(path.join(dest,'members.html'),shell('集团成员',heading('集团成员','OUR GROUP / CONNECTED CAPABILITIES','15家成员企业的业务介绍，连接产品、技术与全球服务。')+'<section class="network-section member-directory">'+require('./network.cjs').memberGrid('../')+'</section><section class="related"><div class="section-label">成员企业详细介绍</div>'+cards(by('集团成员'))+'</section>'));
+fs.writeFileSync(path.join(dest,'partners.html'),shell('战略合作伙伴',heading('战略合作伙伴','STRATEGIC PARTNERS / GLOBAL NETWORK','与国内外产业伙伴同行，让技术与制造连接更广阔的市场。')+require('./network.cjs').partnerPage()));`);
+fs.writeFileSync(path.join(root,'migrate.cjs'),m);
+let b=fs.readFileSync(path.join(root,'build.cjs'),'utf8');
+if(!b.includes("require('./network.cjs').home(v)"))b=b.replace("return $.html();",`$('.site-header nav').append('<a href="content/members.html?theme='+v+'">集团成员</a><a href="content/partners.html?theme='+v+'">战略合作伙伴</a>');
+ $('.foot-links>div').eq(1).append('<a href="content/members.html?theme='+v+'">集团成员 ↗</a><a href="content/partners.html?theme='+v+'">战略合作伙伴 ↗</a>');
+ const network=require('./network.cjs').home(v);const anchor=$('.a-news,.b-news,.c-bottom').first();if(anchor.length)anchor.before(network);else $('main').append(network);
+ return $.html();`);
+b=b.replace('<link rel="stylesheet" href="motion.css">','<link rel="stylesheet" href="motion.css"><link rel="stylesheet" href="network.css">');fs.writeFileSync(path.join(root,'build.cjs'),b);
+let motion=fs.readFileSync(path.join(root,'motion.js'),'utf8');if(!motion.includes("const targets='.member-tile,"))motion=motion.replace("const targets='","const targets='.member-tile,.partner-tile,.network-heading,");fs.writeFileSync(path.join(root,'motion.js'),motion);

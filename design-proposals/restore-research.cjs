@@ -1,0 +1,14 @@
+const fs=require('fs'),path=require('path');const dir=__dirname;
+let m=fs.readFileSync(path.join(dir,'migrate.cjs'),'utf8');
+m=m.replace("['technology','技术与制造']","['technology','科技研发']").replace("['partners','战略合作伙伴'],['news','新闻资讯']","['partners','战略合作伙伴'],['news','新闻资讯'],['investors','投资者关系']");
+m=m.replace('<a href="en-development.html">Development</a>','<a href="en-development.html">Development</a><a href="investors.html">Investor relations</a>');
+m=m.replace('<link rel="stylesheet" href="../network.css">','<link rel="stylesheet" href="../network.css"><link rel="stylesheet" href="../research.css">');
+m=m.replace("landing('technology','让精密，有据可循。','TECHNOLOGY & MANUFACTURING','材料、表面工程、检测与协同研发，贯穿制造全过程。',by('科技研发'));",`fs.writeFileSync(path.join(dest,'technology.html'),shell('科技研发',heading('科技研发','RESEARCH & DEVELOPMENT','技术创新、标准化建设、知识产权、质量管理与博士后工作站。')+require('./research.cjs').directory()));`);
+fs.writeFileSync(path.join(dir,'migrate.cjs'),m);
+let b=fs.readFileSync(path.join(dir,'build.cjs'),'utf8');
+if(!b.includes("require('./research.cjs').home(v)"))b=b.replace("return $.html();",`$('.site-header nav a[href*="technology.html"]').text('科技研发');
+ $('.site-header nav').append('<a href="content/investors.html?theme='+v+'">投资者关系</a>');
+ $('#group-members').before(require('./research.cjs').home(v));
+ return $.html();`);
+b=b.replace('<link rel="stylesheet" href="network.css">','<link rel="stylesheet" href="network.css"><link rel="stylesheet" href="research.css">');fs.writeFileSync(path.join(dir,'build.cjs'),b);
+let motion=fs.readFileSync(path.join(dir,'motion.js'),'utf8');if(!motion.includes("const targets='.research-card,"))motion=motion.replace("const targets='","const targets='.research-card,.research-topic-heading,.research-topic-content,");fs.writeFileSync(path.join(dir,'motion.js'),motion);

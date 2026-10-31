@@ -1,0 +1,40 @@
+[
+  {
+    "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130175634_11982.jpg",
+    "status": 200,
+    "error": "Error: Input buffer contains unsupported image format",
+    "valid": false
+  },
+  {
+    "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/20210818.png",
+    "status": 200,
+    "file": "assets/5569c0791c2b13.png",
+    "valid": true,
+    "bytes": 1130399,
+    "width": 1089,
+    "height": 726,
+    "format": "png"
+  },
+  {
+    "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/2021081802.jpg",
+    "status": 200,
+    "error": "TimeoutError: The operation was aborted due to timeout",
+    "valid": false
+  },
+  {
+    "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20180728/20180728152924_23910.jpg",
+    "status": 200,
+    "file": "assets/b373e3550d11f0.jpg",
+    "valid": true,
+    "bytes": 141524,
+    "width": 1012,
+    "height": 1444,
+    "format": "jpeg"
+  },
+  {
+    "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/20210911.jpg",
+    "status": 200,
+    "error": "TimeoutError: The operation was aborted due to timeout",
+    "valid": false
+  }
+]

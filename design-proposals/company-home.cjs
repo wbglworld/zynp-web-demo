@@ -1,0 +1,5 @@
+const fs=require('fs'),path=require('path');
+const source=JSON.parse(fs.readFileSync(path.join(__dirname,'../output/source/pages.json'),'utf8')).find(p=>p.path==='/zjzy/gsjj');
+const paragraphs=source.text.split(/\n\n/).filter(p=>p&&!p.startsWith('首页'));
+const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+module.exports=theme=>`<section class="company-home" id="company-profile" aria-labelledby="company-title"><div class="company-inner"><div class="company-heading"><div class="eyebrow">ABOUT ZYNP / SINCE 1958</div><h2 id="company-title">企业概况</h2><p>中原内配集团股份有限公司</p></div><div class="company-layout"><figure class="company-image"><img src="assets/headquarters.png" alt="中原内配集团办公园区" width="1144" height="854" loading="lazy"><figcaption>ZYNP · 从精密制造，走向更广阔的未来。</figcaption></figure><div class="company-copy">${paragraphs.map(p=>`<p>${esc(p)}</p>`).join('')}<div class="company-links"><a href="content/about.html?theme=${theme}">进一步了解中原内配 ↗</a><a href="content/members.html?theme=${theme}">集团成员 ↗</a></div><small class="company-note">企业规模与业务信息沿用公司公开介绍。</small></div></div></div></section>`;

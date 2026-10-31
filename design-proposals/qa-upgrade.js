@@ -1,0 +1,24 @@
+async(page)=>{
+ const base='http://127.0.0.1:8766/',errors=[],out=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.emulateMedia({reducedMotion:'no-preference'});await page.goto(base+'a.html');await page.evaluate(()=>localStorage.removeItem('zynp-motion'));
+ for(const v of ['a','b','c']){
+  await page.goto(base+v+'.html');await page.setViewportSize({width:1440,height:1000});
+  if(v==='a'){await page.locator('[data-hero="1"]').click();if(!await page.locator('#a-hero-model svg').count())throw Error('A robot missing');await page.locator('[data-industry="3"]').click();if(!(await page.locator('#industry-title').innerText()).includes('物流'))throw Error('industry failed');await page.evaluate(()=>scrollTo(0,0));}
+  if(v==='b'){await page.locator('.b-accordion summary').nth(2).click();if(await page.locator('.b-accordion details').nth(2).getAttribute('open')===null)throw Error('accordion failed');}
+  if(v==='c'){const initial=await page.locator('.robot-shoulder').evaluate(e=>getComputedStyle(e).transform);await page.waitForTimeout(450);const next=await page.locator('.robot-shoulder').evaluate(e=>getComputedStyle(e).transform);if(initial===next)throw Error('robot not moving');await page.locator('.motion-control').click();const paused=await page.locator('.robot-shoulder').evaluate(e=>getComputedStyle(e).transform);await page.waitForTimeout(250);if(paused!==await page.locator('.robot-shoulder').evaluate(e=>getComputedStyle(e).transform))throw Error('motion pause failed');await page.locator('.motion-control').click();await page.locator('[data-mode="liners"]').click();if(!await page.locator('#c-model img').count())throw Error('liner mode failed');await page.locator('[data-mode="robotics"]').click();await page.locator('[data-hotspot="1"]').click();if(!(await page.locator('#hotspot-title').innerText()).includes('检测'))throw Error('hotspot failed');}
+  const reveal=page.locator('.news-list a').first();await reveal.scrollIntoViewIfNeeded();await page.waitForFunction(()=>document.querySelector('.news-list a').classList.contains('is-visible'));
+  for(const width of [1440,1024,768,390,320]){await page.setViewportSize({width,height:900});if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1))throw Error(v+' overflow '+width)}
+  await page.setViewportSize({width:1440,height:1000});await page.locator('[data-contact]').first().click();await page.locator('#inquiry').fill('机械臂集成需求');if(!(decodeURIComponent(await page.locator('#email-inquiry').getAttribute('href'))).includes('机械臂集成需求'))throw Error('mail draft failed');await page.keyboard.press('Escape');
+  await page.locator('.site-header nav a').first().click();if(!page.url().includes('content/products.html?theme='+v))throw Error('local navigation failed');if(await page.locator('html').getAttribute('data-theme')!==v)throw Error('theme not preserved');out.push({variant:v,interactions:'passed',responsive:'passed'});
+ }
+ for(const file of ['products','solutions','news','about','zh-zjzy-gsjj','zh-jssl-zyzx','zh-xwzx-xwnr-id-786','english','en-product']){
+  await page.goto(base+'content/'+file+'.html?theme=c');await page.setViewportSize({width:1440,height:1000});
+  await page.evaluate(()=>Promise.all([...document.images].map(i=>{i.loading='eager';return i.decode()})));
+  for(const width of [1440,390,320]){await page.setViewportSize({width,height:844});if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1))throw Error(file+' overflow '+width)}
+  out.push({content:file,images:'passed',responsive:'passed'});
+ }
+ await page.goto(base+'content/news.html?theme=b');await page.locator('#content-search').fill('可持续发展');if(await page.locator('.content-card:visible').count()<2)throw Error('news search failed');await page.locator('#content-search').fill('ZZZZunfindable');if(!await page.locator('#no-results').isVisible())throw Error('empty state failed');await page.locator('#content-search').fill('');await page.locator('#load-more').click();if(await page.locator('.content-card:visible').count()!==36)throw Error('pagination failed');await page.locator('[data-category="行业资讯"]').first().click();if(await page.locator('.content-card:visible').count()===0)throw Error('category failed');
+ await page.goto(base+'c.html');await page.emulateMedia({reducedMotion:'reduce'});if(await page.locator('.robot-shoulder').evaluate(e=>getComputedStyle(e).animationName)!=='none')throw Error('reduced motion failed');await page.emulateMedia({reducedMotion:'no-preference'});
+ await page.goto(base+'content/solutions.html?theme=a');await page.setViewportSize({width:390,height:844});await page.locator('.content-menu').click();if(await page.locator('.content-menu').getAttribute('aria-expanded')!=='true')throw Error('mobile menu failed');
+ if(errors.length)throw Error(errors.join(';'));return {checks:out,search:'passed',pagination:'passed',filters:'passed',animation:'moving, pausable, respects reduced motion',pageErrors:errors};
+}

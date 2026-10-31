@@ -1,0 +1,17 @@
+(()=>{
+ const data=JSON.parse(document.getElementById('product-data').textContent),cards=[...document.querySelectorAll('[data-product]')],query=document.getElementById('product-query'),group=document.getElementById('product-group');
+ const dialog=document.getElementById('product-dialog'),source=document.getElementById('source-dialog');let current=0,lastFocus=null;
+ function filter(){const q=query.value.trim().toLowerCase();let n=0;cards.forEach((card,i)=>{const p=data[i];const match=(!group.value||p.position===group.value)&&(!q||[p.id,p.title,p.position].join(' ').toLowerCase().includes(q));card.hidden=!match;if(match)n++});document.getElementById('product-count').textContent=n+' / '+data.length+' 件';document.getElementById('product-empty').hidden=n>0;}
+ query.addEventListener('input',filter);group.addEventListener('change',filter);document.getElementById('reset-products').addEventListener('click',()=>{query.value='';group.value='';filter();query.focus()});
+ function render(i){current=i;const p=data[i],image=document.getElementById('product-detail-image');image.src='../'+p.image;image.alt=p.title+' 可见细节';document.getElementById('product-detail-title').textContent=p.title;document.getElementById('product-detail-id').textContent=p.id+'（非正式型号）';document.getElementById('product-detail-note').textContent=p.partial?'合影中的这件产品存在遮挡，此处展示其可见部分。':'这件产品从原始合影中独立提取，便于单件浏览与沟通。';document.getElementById('product-location').setAttribute('points',p.points.map(x=>x.join(',')).join(' '));document.getElementById('source-location-label').textContent='合影定位 · '+p.position+'区域';document.getElementById('product-detail-count').textContent=p.id+' / '+data.length;document.getElementById('previous-product').disabled=i===0;document.getElementById('next-product').disabled=i===data.length-1;document.getElementById('product-inquiry').href='mailto:zynp@hnzynp.com?subject='+encodeURIComponent('气缸套产品咨询 · 图示编号 '+p.id)+'&body='+encodeURIComponent('您好，我希望咨询产品合影中的气缸套 '+p.id+'（'+p.position+'区域）。此编号为展示编号，请协助确认正式型号。\n\n应用行业：\n工况与尺寸要求：\n联系方式：');}
+ function setHash(id){history.replaceState(null,'',location.pathname+location.search+(id?'#product-'+id:''))}
+ function open(i,update=true){lastFocus=document.activeElement;render(i);if(!dialog.open)dialog.showModal();if(update)setHash(data[i].id);dialog.scrollTop=0;}
+ cards.forEach((card,i)=>card.addEventListener('click',()=>open(i)));
+ document.getElementById('previous-product').addEventListener('click',()=>{if(current>0){render(current-1);setHash(data[current].id)}});
+ document.getElementById('next-product').addEventListener('click',()=>{if(current<data.length-1){render(current+1);setHash(data[current].id)}});
+ document.querySelector('[data-show-source]').addEventListener('click',()=>source.showModal());
+ [dialog,source].forEach(d=>{d.querySelector('.product-close').addEventListener('click',()=>d.close());d.addEventListener('click',e=>{if(e.target!==d)return;const r=d.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)d.close()});});
+ dialog.addEventListener('close',()=>{if(/^#product-/.test(location.hash))setHash(null);if(lastFocus&&document.contains(lastFocus))lastFocus.focus({preventScroll:true})});
+ function fromHash(){const id=location.hash.match(/^#product-(\d{2})$/)?.[1],i=data.findIndex(p=>p.id===id);if(i>=0)open(i,false);else if(dialog.open)dialog.close()}
+ addEventListener('hashchange',fromHash);fromHash();filter();
+})();

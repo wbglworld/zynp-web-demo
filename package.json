@@ -1,0 +1,17 @@
+{
+  "name": "zynp-web-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "中原内配网站改版：三套静态设计方案与完整内容页",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "dev": "node design-proposals/serve.cjs",
+    "check": "node design-proposals/audit-site.cjs",
+    "generate": "node design-proposals/migrate.cjs && node design-proposals/build.cjs",
+    "build": "npm run check && node scripts/build-static.cjs"
+  },
+  "devDependencies": {
+    "cheerio": "1.2.0",
+    "sharp": "0.35.5"
+  }
+}

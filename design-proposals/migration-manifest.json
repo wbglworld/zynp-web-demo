@@ -1,0 +1,2822 @@
+{
+  "generatedAt": "2026-10-31T12:37:55.312Z",
+  "pages": [
+    {
+      "id": "zh-zjzy-dszzc",
+      "title": "领导致辞",
+      "category": "走进中原",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/zjzy/dszzc"
+    },
+    {
+      "id": "zh-zjzy-gsjj",
+      "title": "企业概况",
+      "category": "走进中原",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/zjzy/gsjj"
+    },
+    {
+      "id": "zh-zjzy-shzr",
+      "title": "社会责任",
+      "category": "走进中原",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/zjzy/shzr"
+    },
+    {
+      "id": "zh-zjzy-gsry",
+      "title": "企业荣誉",
+      "category": "走进中原",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/zjzy/gsry"
+    },
+    {
+      "id": "zh-zjzy-qywh",
+      "title": "企业文化",
+      "category": "走进中原",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/zjzy/qywh"
+    },
+    {
+      "id": "zh-zjzy-zzjg",
+      "title": "企业视频",
+      "category": "走进中原",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/zjzy/zzjg"
+    },
+    {
+      "id": "zh-zjzy-lxwm",
+      "title": "联系我们",
+      "category": "走进中原",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/zjzy/lxwm"
+    },
+    {
+      "id": "zh-zjzy-cyqy",
+      "title": "成员企业",
+      "category": "走进中原",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/zjzy/cyqy"
+    },
+    {
+      "id": "zh-jssl-zynp",
+      "title": "中原内配",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/zynp"
+    },
+    {
+      "id": "zh-jssl-ahgs",
+      "title": "安徽公司",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/ahgs"
+    },
+    {
+      "id": "zh-jssl-hnjke",
+      "title": "河南吉凯恩",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/hnjke"
+    },
+    {
+      "id": "zh-jssl-zyzw",
+      "title": "中原轴瓦",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/zyzw"
+    },
+    {
+      "id": "zh-jssl-njfy",
+      "title": "南京飞燕",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/njfy"
+    },
+    {
+      "id": "zh-jssl-znks",
+      "title": "中内凯思",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/znks"
+    },
+    {
+      "id": "zh-jssl-ldfy",
+      "title": "灵动飞扬",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/ldfy"
+    },
+    {
+      "id": "zh-jssl-shgs",
+      "title": "上海公司",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/shgs"
+    },
+    {
+      "id": "zh-jssl-zyzx",
+      "title": "中原智信",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/zyzx"
+    },
+    {
+      "id": "zh-jssl-zzsy",
+      "title": "郑州实业",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/zzsy"
+    },
+    {
+      "id": "zh-jssl-znzb",
+      "title": "智能装备",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/znzb"
+    },
+    {
+      "id": "zh-jssl-drkj",
+      "title": "鼎锐科技",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/drkj"
+    },
+    {
+      "id": "zh-jssl-mggs",
+      "title": "美国公司",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/mggs"
+    },
+    {
+      "id": "zh-jssl-ozgs",
+      "title": "欧洲公司",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/ozgs"
+    },
+    {
+      "id": "zh-jssl-jggs",
+      "title": "激光公司",
+      "category": "集团成员",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/jssl/jggs"
+    },
+    {
+      "id": "zh-yxzx-gnxs",
+      "title": "标准化建设",
+      "category": "科技研发",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/yxzx/gnxs"
+    },
+    {
+      "id": "zh-yxzx-cpjs",
+      "title": "技术创新",
+      "category": "科技研发",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/yxzx/cpjs"
+    },
+    {
+      "id": "zh-yxzx-zlgl",
+      "title": "质量管理",
+      "category": "科技研发",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/yxzx/zlgl"
+    },
+    {
+      "id": "zh-yxzx-gjxs",
+      "title": "知识产权",
+      "category": "科技研发",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/yxzx/gjxs"
+    },
+    {
+      "id": "zh-yxzx-bshgzz",
+      "title": "博士后工作站",
+      "category": "科技研发",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/yxzx/bshgzz"
+    },
+    {
+      "id": "zh-rlzy-rcln",
+      "title": "人才招聘",
+      "category": "加入我们",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/rlzy/rcln"
+    },
+    {
+      "id": "zh-rlzy-ygsh",
+      "title": "员工成长",
+      "category": "加入我们",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/rlzy/ygsh"
+    },
+    {
+      "id": "zh-rlzy-cggx",
+      "title": "成果共享",
+      "category": "加入我们",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/rlzy/cggx"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-787",
+      "title": "关于2026年度中原内配集团工程系列机械专业中级职称评审委员会通过人员的公示",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2026-10-16",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/787"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-784",
+      "title": "中原内配集团股份有限公司发布2024年可持续发展报告",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2025-04-25",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/784"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-786",
+      "title": "中原内配集团股份有限公司发布2025年可持续发展报告",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2026-04-24",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/786"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-785",
+      "title": "关于2025年度中原内配集团工程系列机械专业中级职称评审委员会通过人员的公示",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2025-09-16",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/785"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-782",
+      "title": "中原内配集团股份有限公司危险废物污染防治责任信息公开",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2023-05-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/782"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-783",
+      "title": "关于2024年度中原内配集团工程系列机械专业中级职称评审委员会通过人员的公示",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2024-09-05",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/783"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-780",
+      "title": "关于2023年度中原内配集团工程系列机械专业中级职称评审委员会通过人员的公示",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2023-08-29",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/780"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-741",
+      "title": "热烈祝贺集团董事长薛德龙当选世界生产力科学院院士",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-11-17",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/741"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-738",
+      "title": "中原内配与河南移动、华为、中兴、爱立信签署5G战略合作协议",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-09-25",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/738"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-740",
+      "title": "中原内配入选“河南省绿色环保示范引领企业”榜单",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-11-12",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/740"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-739",
+      "title": "中原内配获“最佳绿色发展上市公司”殊荣",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-10-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/739"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-737",
+      "title": "中原内配（郑州）实业有限公司成立",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-09-19",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/737"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-733",
+      "title": "中原内配发展自信获香港传媒学子点赞\n香港大公报刊登董事长答“准记者”问",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-06-17",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/733"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-732",
+      "title": "南京飞燕和日本理研合资成立\n“南京理研动力系统零部件有限公司”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-06-11",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/732"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-702",
+      "title": "中原内配首条无人智能生产线上线，捷豹路虎核心部件将由“河南造”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-03-15",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/702"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-671",
+      "title": "[路演]中原内配：在国内汽车配件市场占有率高达40%",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-06-06",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/671"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-676",
+      "title": "“党建强则企业强”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-08-15",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/676"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-731",
+      "title": "2019中国汽车工程学会G20年会大咖声音",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-09-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/731"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-704",
+      "title": "科技部部长万钢：内燃机依然存在广阔市场",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-02-03",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/704"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-682",
+      "title": "如何看待中国也将禁售燃油车？毫无疑问这将是一个愚蠢的决定",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-09-14",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/682"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-703",
+      "title": "百人会上万钢和其他部委领导说了啥",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-01-24",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/703"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-681",
+      "title": "前瞻|奔驰法兰克福车展三大看点：氢燃料、纯电动与数字化",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-09-12",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/681"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-669",
+      "title": "车企需及早应对车内空气强制标准",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-05-22",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/669"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-670",
+      "title": "汽车零部件企业全球市场正快速变革，取胜之匙是什么？",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-06-21",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/670"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-668",
+      "title": "董扬：汽车发展空间还可增加1倍 年产量可达5000万辆",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-05-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/668"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-618",
+      "title": "钢活塞会“完胜”铝活塞吗",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-30",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/618"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-619",
+      "title": "2020年中国铸造产业发展4大方向,为中国铸造加油!",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-30",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/619"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-778",
+      "title": "关于2022年度中原内配集团工程系列机械专业中级职称评审委员会通过人员的公示",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2022-11-25",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/778"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-777",
+      "title": "关于2022年中原内配集团股份有限公司土壤及地下水自行监测报告的公示",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2022-09-07",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/777"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-478",
+      "title": "中原内配如约回访兴邦能源 加速推进氢能重卡项目合作",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2022-06-29",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/478"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-657",
+      "title": "焦作日报《王小平鉴签中原内配与德国莱茵金属合作项目》",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-04-25",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/657"
+    },
+    {
+      "id": "zh-rlzy-rczp",
+      "title": "内部招聘",
+      "category": "加入我们",
+      "lang": "zh",
+      "date": "",
+      "url": "https://hnzynp.com/rlzy/rczp"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-656",
+      "title": "中原内配:关于全资子公司收购Incodel Holding LLC100%股权完成交割的公告",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-03-20",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/656"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-590",
+      "title": "揭开中原内配的“江湖秘籍”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-05-28",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/590"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-608",
+      "title": "中原内配：创新升级 打入汽车强国的朋友圈",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-10-29",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/608"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-616",
+      "title": "1~10月同比销量增长6.4% 车用柴油机市场终回暖",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-29",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/616"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-617",
+      "title": "智能驾驶是未来发展机遇",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-30",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/617"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-613",
+      "title": "2016年10月内燃机行业市场综述",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-23",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/613"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-615",
+      "title": "竞争格局发生改变 自主涡轮增压器企业即将突围",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-29",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/615"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-614",
+      "title": "脱欧后的英国汽车行业或将面对45亿英镑汽车关税",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-28",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/614"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-604",
+      "title": "怎样让发动机“尺寸”更合适？",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-22",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/604"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-603",
+      "title": "迎接国五 国际柴油发动机峰会在京召开",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-21",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/603"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-602",
+      "title": "三缸发动机能否渐成主流？",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-21",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/602"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-600",
+      "title": "翻水！最容易被忽视的发动机杀手",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/600"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-601",
+      "title": "10月发动机增速放缓，潍柴成最大黑马",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-20",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/601"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-599",
+      "title": "发动机将消失？丰田宣布“发动机车零销售”的真正含义",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-17",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/599"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-598",
+      "title": "发动机将消失？丰田宣布“发动机车零销售”的真正含义",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-17",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/598"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-597",
+      "title": "拓陆者再破行业僵局 康明斯国五引路新征程",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-14",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/597"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-484",
+      "title": "节能降耗___汽车工业健康发展的根本",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-04-13",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/484"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-596",
+      "title": "玉柴机器：不忘初心，砥砺前行",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-10-15",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/596"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-483",
+      "title": "加快培育发展战略性新兴产业 内燃机行业将高速",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-02-09",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/483"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-485",
+      "title": "中国机动车保有量已近2亿辆",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-01-12",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/485"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-482",
+      "title": "我国内燃机行业产品竞争力弱需在技术上突破",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-01-27",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/482"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-481",
+      "title": "第九届中国国际内燃机及零部件展览会将于11月",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-01-12",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/481"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-479",
+      "title": "节能环保气缸套成为主流 国际市场冷中有热",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2011-10-31",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/479"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-480",
+      "title": "低碳排放正成为推动未来内燃机技术发展的主要源",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2011-11-03",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/480"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-774",
+      "title": "我公司与天朤新能源举行合作签约仪式",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2021-11-26",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/774"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-776",
+      "title": "兴邦能源到中原内配商谈氢能重卡合作项目",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2022-06-14",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/776"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-770",
+      "title": "与中科嘉鸿签署战略合作协议书 围绕新能源领域开展全面合作",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2021-07-16",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/770"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-773",
+      "title": "关于2021年度中原内配集团工程系列机械专业中级职称评审委员会通过人员的公示",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2021-11-26",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/773"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-769",
+      "title": "国际品牌的产业平台新业态",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2021-05-27",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/769"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-712",
+      "title": "2020年度中原内配社会责任报告",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2020-12-28",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/712"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-748",
+      "title": "关于2020年度中原内配集团工程系列机械专业中级职称评审通过人员的公示",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2020-12-02",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/748"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-768",
+      "title": "中外三方动力系统联合研发中心在南京成立",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2021-03-31",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/768"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-747",
+      "title": "董事长薛德龙受邀参加焦作市委十一届十二次全会暨市委工作会议并作典型发言",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2020-08-17",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/747"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-746",
+      "title": "上海公司完成从“零”到“一”转变",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2020-09-29",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/746"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-715",
+      "title": "集团董事长薛德龙获改革开放四十年两项殊荣",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-12-13",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/715"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-718",
+      "title": "中原内配顺利通过戴姆勒PPAP审核",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-10-31",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/718"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-714",
+      "title": "公告——证券期货投资者维权指南",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-12-04",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/714"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-713",
+      "title": "温室气体核查声明",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-07-28",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/713"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-711",
+      "title": "所有的春光 都是早行人的梦",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-05-15",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/711"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-710",
+      "title": "聚焦高端需求 研发组合出拳",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-04-28",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/710"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-707",
+      "title": "集团PCU技术交流启程",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-04-07",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/707"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-708",
+      "title": "逐梦路上 首站德国",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-04-12",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/708"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-709",
+      "title": "金山用什么元素铸成的？",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-04-20",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/709"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-727",
+      "title": "集团董事长薛德龙荣获河南省“最美退役军人”和焦作市“拥军优属企业家年度人物”两项殊荣",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-07-30",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/727"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-706",
+      "title": "副总裁党增军密集考察欧洲市场",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-04-03",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/706"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-724",
+      "title": "问道西柏坡 汲取红动力",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-06-29",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/724"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-725",
+      "title": "中原智信促成智能制造考察与合作",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-07-05",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/725"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-726",
+      "title": "省市观摩接踵而至 中内凯思精彩亮相",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-07-19",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/726"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-722",
+      "title": "千人\"快闪\"响彻产业园,激情澎湃讴歌我的祖国",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-04-30",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/722"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-723",
+      "title": "世界生产力科学院院长专访集团董事长",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-05-15",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/723"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-721",
+      "title": "中原内配首家获得捷豹路虎发动机组中国区JLRQ认证",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-04-02",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/721"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-717",
+      "title": "一汽解放发动机事业部采购工作学习交流会",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-12-19",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/717"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-720",
+      "title": "中原内配“智造”模式 在河南省“三大改造”观摩活动中再出彩",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-02-26",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/720"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-716",
+      "title": "中内凯思国六钢质活塞项目首条智能生产线建成投产仪式隆重举行",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-12-14",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/716"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-771",
+      "title": "温室气体核查声明",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2020-08-03",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/771"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-745",
+      "title": "中原内配隆重举行“致敬奋斗者”表彰大会",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2020-07-21",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/745"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-744",
+      "title": "中原内配援建源沟村百姓大舞台隆重揭幕",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2020-05-15",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/744"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-742",
+      "title": "热烈庆祝新证券法实施,打造规范、透明、开放、有活力、有韧性的资本市场",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2020-03-07",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/742"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-736",
+      "title": "河南省退役军人事务厅党组书记赵宏宇带队莅临产业园调研",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-11-20",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/736"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-730",
+      "title": "中原内配品牌故事、七个QC小组、七个生产班组荣获机械工业质量管理奖项",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-09-05",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/730"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-735",
+      "title": "四精英联手出战智能制造，全河南角逐勇夺第四名",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-09-24",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/735"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-734",
+      "title": "南京飞燕、南京理研乔迁新址揭牌庆典仪式隆重举行",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-09-23",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/734"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-729",
+      "title": "福田康明斯采购总监考察产业园",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-08-29",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/729"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-728",
+      "title": "助学送温暖 我们一直在路上",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2019-08-23",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/728"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-705",
+      "title": "让人才从国际化平台上起飞",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-03-22",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/705"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-699",
+      "title": "砥砺奋进六十年 扬帆启航新征程",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-02-08",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/699"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-700",
+      "title": "热烈庆祝中原内配六十华诞",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-03-05",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/700"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-698",
+      "title": "中原内配加入潍柴“产品研发共同体”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-01-26",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/698"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-696",
+      "title": "社会力荐：中原内配位居河南省三项榜单前列",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-01-13",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/696"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-697",
+      "title": "集团董事长薛德龙出席焦作市十二届人大六次会议",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-01-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/697"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-693",
+      "title": "中原内配总经理党增军访问爱科集团",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-12-16",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/693"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-695",
+      "title": "六朵金花：绽放在Cummins供应商大会上",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2018-01-05",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/695"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-694",
+      "title": "集团党员干部共同听取焦作市委党校宣讲十九大报告",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-12-26",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/694"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-473",
+      "title": "焦作市召开全市工业大会 公司荣获两项荣誉",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-03-28",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/473"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-692",
+      "title": "中国智能制造联盟专家委员会主任张相木莅临产业园考察",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-12-11",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/692"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-469",
+      "title": "公司开展“魅力女性的修炼”专题讲座",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-03-08",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/469"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-472",
+      "title": "节能降耗___汽车工业健康发展的根本",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-03-17",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/472"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-470",
+      "title": "我公司在孟州市年度总结表彰大会上获多项殊荣",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-03-13",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/470"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-468",
+      "title": "公司开展大型青年联谊活动",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-02-27",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/468"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-467",
+      "title": "我公司被中国机械工业联合会授予“中国机械工业",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-02-11",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/467"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-466",
+      "title": "公司2011年颁奖联欢晚会隆重召开",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-01-12",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/466"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-691",
+      "title": "孟州市委副书记、代市长吕沛到集团调研",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-12-08",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/691"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-689",
+      "title": "学习党的十九大报告 凝神聚力加快企业发展",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-10-23",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/689"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-686",
+      "title": "国务院安全委员会第三督察组到安徽公司巡视",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-10-03",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/686"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-690",
+      "title": "集团荣登2017年河南省民营企业百强榜",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-11-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/690"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-684",
+      "title": "中原内配集团公司隆重召开限制性股票激励授予大会",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-09-13",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/684"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-683",
+      "title": "中原内配荣获“2017年度焦作市高新技术十大龙头企业”称号",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-09-05",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/683"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-685",
+      "title": "云台山景区管理局干部团队到产业园观摩",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-09-23",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/685"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-680",
+      "title": "河南省副省长徐光盛赞中原内配产业发展成果",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-09-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/680"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-678",
+      "title": "集团发布“2017-2025”中长期发展战略",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-08-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/678"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-679",
+      "title": "中原内配（上海）电子科技有限公司隆重开业",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-08-15",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/679"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-649",
+      "title": "中原内配集团董事长薛德龙发表2017年新年贺词",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-01-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/649"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-647",
+      "title": "中原内配纪委书记薛建军在全市党建工作会议上做典型发言",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-12-28",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/647"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-648",
+      "title": "全球工程机械制造商50强约翰迪尔授予中原内配“优秀供应商”奖",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-12-15",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/648"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-606",
+      "title": "集团董事长薛德龙荣膺“新经济、新动能、新模式榜样人物”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/606"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-636",
+      "title": "河南省委党校领导 带队到公司调研",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-11-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/636"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-637",
+      "title": "党员干部集体观看河南省第十届党代会",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-10-31",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/637"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-633",
+      "title": "中原内配公司党委发布“二一三三五”党建体系",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-10-26",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/633"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-605",
+      "title": "中原内配被认定为河南省创新龙头企业",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-10-28",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/605"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-635",
+      "title": "河南工程学院 孟州市产业集聚区 中原内配集团校企校区合作研讨会在郑召开",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-10-14",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/635"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-634",
+      "title": "ZYNP—康明斯技术日活动 在武汉康明斯东亚研发中心隆重举行",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-10-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/634"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-662",
+      "title": "孟州市委号召全市各级党组织向中原内配党委学习",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-05-16",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/662"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-661",
+      "title": "集团董事长薛德龙结束“欧美四国万里行”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-05-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/661"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-660",
+      "title": "中原内配总工程师刘治军荣获“国务院特殊津贴专家”证书",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-05-09",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/660"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-655",
+      "title": "北美收购：首例海外收购圆满收官",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-04-27",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/655"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-659",
+      "title": "网络学院：创新学习模式 踏上百亿节奏",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-05-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/659"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-654",
+      "title": "全省重点项目暨产业转型攻坚评价工作组莅临观摩",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-03-14",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/654"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-652",
+      "title": "全省重点项目暨产业转型攻坚评价工作组莅临观摩",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-03-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/652"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-651",
+      "title": "河南中原智信科技股份有限公司揭牌仪式隆重举行",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-02-28",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/651"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-653",
+      "title": "中原内配“三八”节向女工奉上三重大礼",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-03-13",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/653"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-677",
+      "title": "中原内配入选“全国就业扶贫基地名单”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-08-02",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/677"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-650",
+      "title": "2017年度干部大会隆重召开",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-01-23",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/650"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-674",
+      "title": "年产180万只国Ⅵ发动机钢质活塞项目隆重奠基",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-07-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/674"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-673",
+      "title": "公司党委荣获焦作市“十佳先进基层党组织”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-07-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/673"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-675",
+      "title": "福田康明斯“精益论坛”走进产业园",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-07-21",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/675"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-672",
+      "title": "中内凯思汽车新动力系统有限公司奠基仪式隆重举行",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-07-06",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/672"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-667",
+      "title": "集团特邀清华大学教授为干部队伍脑补“创新”思维",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-06-21",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/667"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-666",
+      "title": "南京飞燕“国Ⅵ活塞环项目”入选国家“绿色制造系统集成”支持项目",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-06-15",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/666"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-663",
+      "title": "捷豹路虎主动联手中原内配推精益",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-05-25",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/663"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-665",
+      "title": "集团董事长薛德龙应邀到中科院宁波工研院洽谈合作",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-06-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/665"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-664",
+      "title": "康明斯高级顾问三次访问中原内配",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2017-05-26",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/664"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-591",
+      "title": "集团董事长薛德龙作为主席团成员出席焦作市第十一次党代会",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-09-26",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/591"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-632",
+      "title": "中原内配总经理党增军考察欧洲市场",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-10-02",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/632"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-630",
+      "title": "奖励员工子女金榜题名 共享发展成果十载赤心不变",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-08-26",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/630"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-631",
+      "title": "集团董事长薛德龙视察安徽公司二期工程",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-09-11",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/631"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-589",
+      "title": "全球豫商聚焦中原内配",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-08-29",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/589"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-627",
+      "title": "孟州市国税局与中原吉凯恩 签订出口退（免）税服务合作协议",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-07-20",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/627"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-629",
+      "title": "“中原内配”奖励基金 为孟州一中和学子持续助力",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-08-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/629"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-628",
+      "title": "董事长薛德龙发展不忘责任",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-08-16",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/628"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-626",
+      "title": "中原内配荣获 约翰迪尔 “最佳质量奖”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-07-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/626"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-588",
+      "title": "全国人大副委员长沈跃跃带队到产业园调研",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-07-13",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/588"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-508",
+      "title": "我公司申报的河南省重大科技专项顺利通过专家组论证",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-08-02",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/508"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-500",
+      "title": "公司全程赞助2012年国际汽车大赛",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-07-04",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/500"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-509",
+      "title": "省委书记卢展工视察我公司",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-08-16",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/509"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-497",
+      "title": "我公司被授予焦作市职业教育“校企合作先进单位”称号",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-06-04",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/497"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-498",
+      "title": "中原内配：以自主创新转变发展方式",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-06-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/498"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-499",
+      "title": "我公司荣获焦作市2011年度“安康杯”竞赛优胜奖",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-06-20",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/499"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-476",
+      "title": "公司组织大学生木札岭一日游",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-05-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/476"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-475",
+      "title": "公司荣获“省铸锻行业领军企业”称号",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-04-23",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/475"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-477",
+      "title": "向劳动者致谢 为共享者加油",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-05-02",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/477"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-546",
+      "title": "董事长慰问驻地官兵",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-09-16",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/546"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-474",
+      "title": "公司主办的“内燃机热活塞组件的前途和应用”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-04-02",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/474"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-544",
+      "title": "26名员工子女考入高校获公司奖励",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-09-02",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/544"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-543",
+      "title": "公司再次入选中国机械500强",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-09-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/543"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-545",
+      "title": "公司组织全体干部参加“责任胜于能力”职业化培训",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-09-11",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/545"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-541",
+      "title": "公司入选焦作市2013年度30强企业",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-07-16",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/541"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-542",
+      "title": "公司捐赠“30万元奖励基金”助力孟州教育发展",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-08-05",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/542"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-540",
+      "title": "公司荣获全国“守合同重信用”企业称号",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-07-05",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/540"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-537",
+      "title": "公司荣获2013年度国家“质量标杆”称号",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-05-15",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/537"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-538",
+      "title": "河南省首次表彰全省优秀创新型企业和企业家",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-06-03",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/538"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-539",
+      "title": "公司荣获焦作市“十佳创新型企业”称号",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-06-05",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/539"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-557",
+      "title": "“三八节”中原内配向全体女工赠送理发、护理卡并进行美容礼仪培训",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-03-08",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/557"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-558",
+      "title": "公司开展全员植树活动",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-03-13",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/558"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-552",
+      "title": "南京飞燕干部团队参观中原内配公司",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-12-24",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/552"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-553",
+      "title": "廓清管理真谛 明确管理责任 为精益管理铺好思想跑道",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-12-31",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/553"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-555",
+      "title": "公司召开“跨越2014”团队总动员实施大会",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-01-27",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/555"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-550",
+      "title": "热烈庆祝中原内配集团正式揭牌成立",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-11-09",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/550"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-549",
+      "title": "公司成功收购南京飞燕活塞环股份有限公司49.16%股权",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-11-02",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/549"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-554",
+      "title": "在点检成果中满怀信心 在二期号角中整装启程",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-12-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/554"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-547",
+      "title": "公司被认定为“2013年国家技术创新示范企业”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-09-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/547"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-548",
+      "title": "董事长薛德龙被评为“河南省金秋助学捐资先进个人”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-10-05",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/548"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-517",
+      "title": "公司实施的河南省高新技术产业化项目顺利通过专家验收",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-11-03",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/517"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-519",
+      "title": "我公司再次被康明斯公司授予“优秀供应商”称号",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-11-15",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/519"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-518",
+      "title": "公司“年产1300万只新型节能环保气缸套”项目",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-11-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/518"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-514",
+      "title": "公司隆重召开精益生产项目启动暨誓师大会",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-10-16",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/514"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-516",
+      "title": "公司两种产品再获省科技成果奖",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-10-30",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/516"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-515",
+      "title": "快乐员工 健康动起来 - 公司举办员工健身操大赛",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-10-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/515"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-513",
+      "title": "热烈庆祝我公司增发项目成功募集资金5.4亿元",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-10-09",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/513"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-512",
+      "title": "中国内燃机工业协会组团赴美访问我公司驻北美代表处",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-10-03",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/512"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-511",
+      "title": "我公司一次通过德国戴姆勒公司VDA6.3审核",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-09-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/511"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-510",
+      "title": "三十名员工子女升入本科院校受到公司奖励",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-08-23",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/510"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-536",
+      "title": "公司分别入选 “2013年中国制造业500强” “中国装备制造业100强”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-04-06",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/536"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-531",
+      "title": "公司荣获“中原经济区100名片”称号",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-02-22",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/531"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-530",
+      "title": "我公司承担的国家重点产业振兴和技术改造项目通过国家验收",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-03-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/530"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-532",
+      "title": "省政府号召全省工业企业学习借鉴我公司转型升级经验",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-03-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/532"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-528",
+      "title": "中内协常务副会长邢敏莅临公司考察指导",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-12-22",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/528"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-529",
+      "title": "公司荣获“中原经济区100名片”称号",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2013-01-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/529"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-525",
+      "title": "河南省“质量标杆”企业现场评审组到我公司评审",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-12-02",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/525"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-526",
+      "title": "我公司和中原吉凯恩四项新产品新技术通过省科技成果鉴定",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-12-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/526"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-527",
+      "title": "中国内燃机工业协会召开第五次全国会员代表大会",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-12-12",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/527"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-520",
+      "title": "我公司技术研发中心被认定为国家级企业技术中心",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2012-11-22",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/520"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-587",
+      "title": "河南省省委书记谢伏瞻时隔二年再来调研",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-06-23",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/587"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-624",
+      "title": "全球智能制造产业联盟（硅谷）秘书长夏妍娜到产业园传播全球工业革命新信息",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-05-26",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/624"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-625",
+      "title": "南京飞燕国有股权转让签字仪式隆重举行",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-06-02",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/625"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-586",
+      "title": "孟州市180万元奖金褒奖集团纳税贡献",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-06-22",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/586"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-622",
+      "title": "中原内配荣获河南省“五一劳动奖状”",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-05-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/622"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-623",
+      "title": "中原内配承担的“国家智能制造装备发展专项”顺利通过验收",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-05-21",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/623"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-585",
+      "title": "河南省省长陈润儿率团到集团产业园观摩",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-04-15",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/585"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-584",
+      "title": "南京飞燕新址奠基仪式隆重举行",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-03-08",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/584"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-621",
+      "title": "焦作市孟州市领导密集考察集团产业园",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-03-18",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/621"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-620",
+      "title": "中原内配“谋势新常态，创新保增长”动员大会隆重召开",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2016-02-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/620"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-572",
+      "title": "河南省省长谢伏瞻到集团调研 高度褒扬集团发展成果",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-08-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/572"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-571",
+      "title": "《人民日报》经济版大篇幅配图报道中原内配以结构调整保增长促发展",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-07-11",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/571"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-568",
+      "title": "三家高端客户同一天抵达中原内配",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-06-23",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/568"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-570",
+      "title": "玉柴副总前来中原内配考察",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-07-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/570"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-569",
+      "title": "常柴董事长薛国俊到中原内配产业园考察",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-06-25",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/569"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-567",
+      "title": "西峡水泵总经理率队到中原内配观摩",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-06-11",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/567"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-566",
+      "title": "中原内配与沃尔沃携手启程",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-06-17",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/566"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-565",
+      "title": "首届“ZYNP-康明斯科技创新日”活动在美国康明斯总部隆重举行",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-05-22",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/565"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-563",
+      "title": "孟州市五大班子领导齐聚中原内配观摩指导工作",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-04-11",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/563"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-564",
+      "title": "英国GKN工业集团独立董事到中原内配和中原GKN考察访问",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-04-14",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/564"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-582",
+      "title": "集团董事长薛德龙被选举为焦作市汽车及零部件工业行业协会会长",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2015-07-02",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/582"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-583",
+      "title": "央视《新闻联播》栏目组走进中原内配采访纪实",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2015-12-10",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/583"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-580",
+      "title": "集团董事长薛德龙登上“同心大讲堂”讲坛",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2015-09-12",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/580"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-581",
+      "title": "玉柴产业新城首批入城企业签订投资协议",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2015-07-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/581"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-576",
+      "title": "集团隆重召开“谋势而上”营销动员大会",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2015-03-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/576"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-578",
+      "title": "中原吉凯恩成立十周年庆典仪式隆重举行",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2015-04-01",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/578"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-575",
+      "title": "中原内配成功收购安徽汇中70%股权",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-10-17",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/575"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-574",
+      "title": "KCEC质量总经理到中原内配考察",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-10-16",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/574"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-577",
+      "title": "中原内配隆重召开2014年度总结表彰颁奖晚会",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2015-02-13",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/577"
+    },
+    {
+      "id": "zh-xwzx-xwnr-id-573",
+      "title": "东风商用车首访中原内配",
+      "category": "新闻资讯",
+      "lang": "zh",
+      "date": "2014-10-04",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/573"
+    },
+    {
+      "id": "en-zjzy-gsjj",
+      "title": "Company profile",
+      "category": "English",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zjzy/gsjj"
+    },
+    {
+      "id": "en-product",
+      "title": "Product",
+      "category": "English",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/product"
+    },
+    {
+      "id": "en-quality",
+      "title": "Quality",
+      "category": "English",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/quality"
+    },
+    {
+      "id": "en-yxzx-gjzlhb",
+      "title": "International strategic partners",
+      "category": "English",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/yxzx/gjzlhb"
+    },
+    {
+      "id": "en-development",
+      "title": "Development",
+      "category": "English",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/development"
+    },
+    {
+      "id": "en-yxzx-gsry",
+      "title": "Company honors",
+      "category": "English",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/yxzx/gsry"
+    },
+    {
+      "id": "en-yxzx-gyl",
+      "title": "Supply chain",
+      "category": "English",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/yxzx/gyl"
+    },
+    {
+      "id": "en-yxzx-gnzlhb",
+      "title": "Domestic strategic partner",
+      "category": "English",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/yxzx/gnzlhb"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-524",
+      "title": "Six Awards at the Cummins Supplier Conference",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/xwzx/xwnr/id/524"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-519",
+      "title": "Warmly celebrate the 60th birthday of the Central Plains",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/xwzx/xwnr/id/519"
+    },
+    {
+      "id": "en-lxwm",
+      "title": "Contact us",
+      "category": "English",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/lxwm"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-521",
+      "title": "ZYNP Joins Weichai “Product R&D Community”",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/xwzx/xwnr/id/521"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-520",
+      "title": "Chairman of the Group, Xue Delong made an important speech at the award ceremony for the 60th annive",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/xwzx/xwnr/id/520"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-523",
+      "title": "Social Recommendation: ZYNP is listed in the top three of Henan province.",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/xwzx/xwnr/id/523"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-522",
+      "title": "Social Recommendation: ZYNP is listed in the top three of Henan province.",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/xwzx/xwnr/id/522"
+    },
+    {
+      "id": "en-rlzy-pxfz",
+      "title": "Social Responsibility",
+      "category": "English",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/rlzy/pxfz"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-516",
+      "title": "ZYNP Technical Center Was Identified as Technical Center of National Enterprise",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/516"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-515",
+      "title": "ZYNP Was Awarded the Title of Excellent Supplier",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/515"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-514",
+      "title": "ZYNP Obtains Central Government Budget's 19.6 million RMB after 540 Million Raising Funds",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/514"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-513",
+      "title": "Henan High-tech Industrialization Project in ZYNP Passed the Experts Acceptance",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/513"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-510",
+      "title": "Ceremony for ZYNP 2012 Lean Production Project",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/510"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-511",
+      "title": "Happy employees   Healthy Activity",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/511"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-512",
+      "title": "ZYNP Two Products Obtained Provincial Level Achievement Award of Science and Technology",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/512"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-507",
+      "title": "ZYNP Having Been Approved by Daimler for VDA 6.3 Audit",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/507"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-509",
+      "title": "Warmly Celebrate ZYNP Raising Funds to 540 Million RMB",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/509"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-508",
+      "title": "CICEIA Members Visit ZYNP's North American Representative Office",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/508"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-505",
+      "title": "Zhangong Lu (Secretary of Provincial Party Committee) visits ZYNP",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/505"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-504",
+      "title": "ZYNP's Great Science and Technology Project Obtain",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/504"
+    },
+    {
+      "id": "en-xwzx-xwnr-id-506",
+      "title": "ZYNP Reward 30 Employees Children for Their Universities",
+      "category": "English news",
+      "lang": "en",
+      "date": "",
+      "url": "https://en.hnzynp.com/zynp_en/xwzx/xwnr/id/506"
+    }
+  ],
+  "localImages": 253,
+  "localAttachments": 8,
+  "missing": [
+    {
+      "page": "zh-zjzy-zzjg",
+      "type": "empty-content",
+      "url": "https://hnzynp.com/zjzy/zzjg"
+    },
+    {
+      "page": "zh-zjzy-zzjg",
+      "type": "legacy-media",
+      "media": [
+        {
+          "tag": "embed",
+          "url": "/zynp_ch/Home/Tpl/default/Public/flash/Flvplayer.swf",
+          "html": "<embed src=\"/zynp_ch/Home/Tpl/default/Public/flash/Flvplayer.swf\" allowfullscreen=\"true\" flashvars=\"vcastr_file=/zynp_ch/Home/Tpl/default/Public/shipin/zynp.flv&amp;vcastr_title=中原内配集团股份有限公司&amp;isAutoPlay=1&amp;IsContinue=0&amp;BarPosition=0&amp;IsShowBar=1&amp;BarColor=0xFF6600&amp;LogoText=www.hnzynp.com\" quality=\"high\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" width=\"600\" height=\"450\">"
+        }
+      ]
+    },
+    {
+      "page": "zh-jssl-ahgs",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/ahgs-20201223-1.png"
+    },
+    {
+      "page": "zh-jssl-ahgs",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/ahgs-20201223-3.png"
+    },
+    {
+      "page": "zh-jssl-hnjke",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/zyjke-20201223-2.png"
+    },
+    {
+      "page": "zh-jssl-njfy",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/njfy-20201223-3.png"
+    },
+    {
+      "page": "zh-jssl-znks",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/znks-20201223-2.png"
+    },
+    {
+      "page": "zh-jssl-ldfy",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/ldfy-20201223-1.png"
+    },
+    {
+      "page": "zh-jssl-ldfy",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/ldfy-20201223-2.png"
+    },
+    {
+      "page": "zh-jssl-ldfy",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/ldfy-20201223-3.png"
+    },
+    {
+      "page": "zh-jssl-ldfy",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/ldfy-20201223-4.png"
+    },
+    {
+      "page": "zh-jssl-shgs",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/dzkj-20201223-2.png"
+    },
+    {
+      "page": "zh-jssl-shgs",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/dzkj-20201223-3.png"
+    },
+    {
+      "page": "zh-jssl-shgs",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/dzkj-20201223-4.png"
+    },
+    {
+      "page": "zh-jssl-shgs",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/dzkj-20201223-5.png"
+    },
+    {
+      "page": "zh-jssl-zyzx",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/zyzx-20201223-3.png"
+    },
+    {
+      "page": "zh-jssl-ozgs",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Home/Tpl/default/Public/flash/20201223/ozgs-20201223-1.png"
+    },
+    {
+      "page": "zh-rlzy-rcln",
+      "type": "empty-content",
+      "url": "https://hnzynp.com/rlzy/rcln"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-784",
+      "type": "attachment",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20250425/ESG.pdf"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-786",
+      "type": "attachment",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20250425/20260424.pdf"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-741",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20190709/2019123003.png"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-732",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20190709/2019092607.png"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-731",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20190709/2019092606.png"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-619",
+      "type": "image",
+      "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130175634_11982.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-619",
+      "type": "empty-content",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/619"
+    },
+    {
+      "page": "zh-rlzy-rczp",
+      "type": "empty-content",
+      "url": "https://hnzynp.com/rlzy/rczp"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-776",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/2022061402.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-769",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/2021081802.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-712",
+      "type": "attachment",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/20211115.pdf"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-724",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20190709/2019092601.png"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-725",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20190709/2019092602.png"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-726",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20190709/2019092603.png"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-721",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20190709/20190709090918_58666.png"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-771",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/20210911.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-771",
+      "type": "empty-content",
+      "url": "https://hnzynp.com/xwzx/xwnr/id/771"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-745",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/2020071606.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-745",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/2020071601.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-745",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/2020071602.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-745",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/2020071605.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-745",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/2020071603.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-744",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20200501/20200515.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-735",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20190709/2019123002.png"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-734",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20190709/2019123001.png"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-728",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20190709/2019092604.png"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-728",
+      "type": "image",
+      "url": "https://hnzynp.com/zynp_ch/Public/Js/editor/attached/20190709/2019092605.png"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-636",
+      "type": "image",
+      "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130224807_70652.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-637",
+      "type": "image",
+      "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130225038_71542.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-633",
+      "type": "image",
+      "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130224251_38564.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-634",
+      "type": "image",
+      "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130224416_81537.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-632",
+      "type": "image",
+      "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130224000_99586.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-631",
+      "type": "image",
+      "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130223744_45319.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-627",
+      "type": "image",
+      "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130223204_77008.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-626",
+      "type": "image",
+      "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130223030_16479.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-509",
+      "type": "image",
+      "url": "https://hnzynp.com/Admin/Public/Js/editor/attached/20121127/20121127130312_64854.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-519",
+      "type": "image",
+      "url": "https://hnzynp.com/Admin/Public/Js/editor/attached/20121127/20121127132935_87720.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-514",
+      "type": "image",
+      "url": "https://hnzynp.com/Admin/Public/Js/editor/attached/20121127/20121127131928_91072.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-515",
+      "type": "image",
+      "url": "https://hnzynp.com/Admin/Public/Js/editor/attached/20121127/20121127132250_98865.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-512",
+      "type": "image",
+      "url": "https://hnzynp.com/Admin/Public/Js/editor/attached/20121127/20121127131559_74943.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-511",
+      "type": "image",
+      "url": "https://hnzynp.com/Admin/Public/Js/editor/attached/20121127/20121127131135_40811.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-510",
+      "type": "image",
+      "url": "https://hnzynp.com/Admin/Public/Js/editor/attached/20121127/20121127130718_85125.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-520",
+      "type": "image",
+      "url": "https://hnzynp.com/Admin/Public/Js/editor/attached/20121224/20121224133123_49206.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-625",
+      "type": "image",
+      "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130222543_83526.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-621",
+      "type": "image",
+      "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130221656_58755.jpg"
+    },
+    {
+      "page": "zh-xwzx-xwnr-id-620",
+      "type": "image",
+      "url": "https://hnzynp.com/Public/Js/editor/attached/20161130/20161130220400_77890.jpg"
+    },
+    {
+      "page": "en-product",
+      "type": "image",
+      "url": "https://en.hnzynp.com/zynp_en/Admin/Tpl/default/Public/flash/20121105/20121105153438_35896.jpg"
+    },
+    {
+      "page": "en-rlzy-pxfz",
+      "type": "image",
+      "url": "https://en.hnzynp.com/Admin/Public/Js/editor/attached/20120721/20120721192150_68653.jpg"
+    },
+    {
+      "page": "en-xwzx-xwnr-id-510",
+      "type": "image",
+      "url": "https://www.zynpgroup.com/Admin/Public/Js/editor/attached/20121127/20121127131928_91072.jpg"
+    },
+    {
+      "page": "en-xwzx-xwnr-id-511",
+      "type": "image",
+      "url": "https://www.zynpgroup.com/Admin/Public/Js/editor/attached/20121127/20121127132250_98865.jpg"
+    },
+    {
+      "page": "en-xwzx-xwnr-id-507",
+      "type": "image",
+      "url": "https://www.zynpgroup.com/Admin/Public/Js/editor/attached/20121127/20121127131135_40811.jpg"
+    },
+    {
+      "page": "en-xwzx-xwnr-id-508",
+      "type": "image",
+      "url": "https://www.zynpgroup.com/Admin/Public/Js/editor/attached/20121127/20121127131559_74943.jpg"
+    },
+    {
+      "page": "en-xwzx-xwnr-id-505",
+      "type": "image",
+      "url": "https://www.zynpgroup.com/Admin/Public/Js/editor/attached/20121127/20121127130312_64854.jpg"
+    },
+    {
+      "page": "en-xwzx-xwnr-id-506",
+      "type": "image",
+      "url": "https://www.zynpgroup.com/Admin/Public/Js/editor/attached/20121127/20121127130718_85125.jpg"
+    }
+  ],
+  "omitted": [
+    {
+      "url": "https://hnzynp.com/sitemap.xml",
+      "reason": "未取得正常正文"
+    },
+    {
+      "url": "https://hnzynp.com/robots.txt",
+      "reason": "未取得正常正文"
+    },
+    {
+      "url": "https://hnzynp.com/lxwm",
+      "reason": "未取得正常正文"
+    },
+    {
+      "url": "https://hnzynp.com/zjzy/gjxs",
+      "reason": "未取得正常正文"
+    },
+    {
+      "url": "https://hnzynp.com/jssl/fyld",
+      "reason": "未取得正常正文"
+    }
+  ],
+  "listPagesReplaced": 26
+}
