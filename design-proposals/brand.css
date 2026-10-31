@@ -1,0 +1,18 @@
+/* Shared official identity. A white backing preserves the supplied logo on dark themes. */
+.brand.official-brand,.content-brand.official-brand{display:inline-flex;align-items:center;gap:12px;flex-shrink:0;max-width:100%;text-decoration:none}
+.official-brand .official-logo{display:block;width:54px;height:auto;max-width:none;flex-shrink:0;background:#fff;border-radius:3px}
+.brand.official-brand .brand-name,.content-brand.official-brand .brand-name{display:block;border:0;padding:0;margin:0;color:inherit;font-family:var(--font-sans,"Microsoft YaHei",sans-serif);font-size:16px;font-weight:600;letter-spacing:0;line-height:1.5;white-space:nowrap}
+.content-header{padding-top:14px;padding-bottom:14px}
+.theme-d{--brand-menu:#b8deff;--brand-menu-ink:#123e70}
+.theme-b{--brand-menu:#f7f7f2;--brand-menu-ink:#24494d}
+@media(max-width:1320px){
+ .site-header nav,.theme-c .site-header nav,.theme-d .site-header nav{display:none;position:absolute;top:100%;left:0;right:0;padding:22px 5%;background:var(--brand-menu,#102435);color:var(--brand-menu-ink,#fff);flex-direction:column;align-items:stretch;gap:0;max-height:75vh;overflow:auto;font-size:16px;box-shadow:0 20px 30px #0002}
+ .site-header nav a{padding:12px 8px}.site-header .menu-toggle{display:block}.mobile-nav-open .site-header nav{display:flex}.site-header .header-actions .nav-contact{display:none}
+ .content-header nav{display:none;position:absolute;top:100%;left:0;right:0;padding:22px 5%;background:var(--paper);color:var(--ink);border-bottom:1px solid var(--line);flex-direction:column;gap:22px;font-size:16px;max-height:75vh;overflow:auto}.content-header.menu-open nav{display:flex}.content-header .content-menu{display:block}.content-header .lang-link{margin-left:auto}
+}
+@media(max-width:600px){
+ .brand.official-brand,.content-brand.official-brand{gap:8px}.official-brand .official-logo{width:40px}
+ .brand.official-brand .brand-name,.content-brand.official-brand .brand-name{font-size:13px}
+ .site-header,.theme-d .site-header,.content-header{padding-left:4%;padding-right:4%;gap:10px}.header-actions{gap:8px}.menu-toggle{padding:6px}.content-header{padding-top:12px;padding-bottom:12px}
+}
+@media(max-width:360px){.official-brand .official-logo{width:36px}.brand.official-brand .brand-name,.content-brand.official-brand .brand-name{font-size:12px}}

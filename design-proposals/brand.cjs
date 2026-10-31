@@ -1,0 +1,2 @@
+// The original logo is cropped from the official sy_logo1.png; keep its colors intact.
+module.exports = ({href='#main',prefix='',content=false}={}) => `<a class="${content?'content-brand':'brand'} official-brand" href="${href}" ${content?'data-home ':''}aria-label="中原内配集团股份有限公司首页"><img class="official-logo" src="${prefix}assets/zynp-official-logo.png" width="60" height="62" alt=""><span class="brand-name">中原内配集团股份有限公司</span></a>`;
