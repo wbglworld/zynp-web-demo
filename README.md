@@ -38,6 +38,17 @@ npm run build
 
 代码仓库：https://gitee.com/majy89/zynp-web-demo 。代码推送和静态托管是独立步骤。
 
+## GitHub Pages 自动发布
+
+GitHub 仓库：https://github.com/wbglworld/zynp-web-demo 。推送 `main` 分支后，GitHub Actions 会运行链接检查、构建 `dist` 并发布到 GitHub Pages。
+
+- 方案总览：https://wbglworld.github.io/zynp-web-demo/
+- D 方案：https://wbglworld.github.io/zynp-web-demo/d.html
+- 配置文件：`.github/workflows/pages.yml`。
+- 仓库 Settings → Pages 的 Source 使用 **GitHub Actions**。
+
+所有页面和素材采用相对路径，兼容 `/zynp-web-demo/` 子目录。该地址无需 EdgeOne 的临时鉴权参数。
+
 ## EdgeOne Pages / Makers 发布
 
 在腾讯云控制台的 EdgeOne → Makers 中创建 `zynp-web-demo` 项目，使用“直接上传”发布 `dist` 的静态文件。ZIP 压缩包最外层必须直接包含 `index.html`，不要额外套一层 dist 目录。
